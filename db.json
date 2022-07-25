@@ -1,5 +1,6 @@
 {"users":[{
 "id":46546,
+  "email":"jay@me.com",
   "name": "Jay Chiarella",
   "address": "123 anywhere st",
   "city":"berlin",
@@ -9,6 +10,7 @@
 },
 {
 "id":324,
+  "email":"john@doe.com",
   "name": "John Doe",
   "address": "123 anywhere st",
   "city":"Chicago",
