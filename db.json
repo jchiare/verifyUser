@@ -1,4 +1,4 @@
-[{
+{"users":[{
 "id":46546,
   "name": "Jay Chiarella",
   "address": "123 anywhere st",
@@ -17,3 +17,4 @@
   "joinedDate": "2020-05-05T11:51:24.104Z"
 }
 ]
+}
