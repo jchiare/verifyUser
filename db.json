@@ -1,0 +1,19 @@
+[{
+"id":46546,
+  "name": "Jay Chiarella",
+  "address": "123 anywhere st",
+  "city":"berlin",
+  "premiumUser": false,
+  "registeredAddress": "10 Berlin st",
+  "joinedDate": "2020-07-25T11:51:24.104Z"
+},
+{
+"id":324,
+  "name": "John Doe",
+  "address": "123 anywhere st",
+  "city":"Chicago",
+  "premiumUser": true,
+  "registeredAddress": "105 Chicago st",
+  "joinedDate": "2020-05-05T11:51:24.104Z"
+}
+]
